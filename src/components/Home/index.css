@@ -1,0 +1,18 @@
+.app-container{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+}
+
+.links{
+    font-family: Roboto;
+    margin: 10px;
+    color: black;
+    font-family: 'Roboto';
+    text-decoration: none;
+    font-size: 30px;
+    list-style-type: none;
+}
